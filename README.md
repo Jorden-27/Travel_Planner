@@ -1,22 +1,23 @@
-🧠 AI Travel Planner with Hotel Finder
-Plan your next trip effortlessly using AI!
-This agentic app breaks down your goal (e.g., "Plan a trip to Lonavala") into subtasks like 🏨 hotel search, 📅 itinerary generation, and 💰 budget management.
+# 🧠 AI Travel Planner with Hotel Finder
 
-🚀 Features
-✈️ Input your destination, trip duration, budget, guest count, and start date
+Plan your perfect trip using AI!  
+This smart task automation agent breaks down your travel goal into subtasks like 🏨 hotel search, 📅 itinerary planning, and 💰 budgeting – powered by Gemini + SerpAPI.
 
-🤖 Uses Gemini 2.5 Pro to plan your entire trip
+---
 
-🔎 Scrapes real-time hotel/villa listings using Playwright
+## 🔥 Features
 
-📋 Returns a complete itinerary + hotel links based on your needs
+- 📍 Enter your **destination**, **trip duration**, **budget**, **number of people**, and **start date**
+- 🤖 Uses **Gemini Pro (LangChain)** to intelligently plan your trip
+- 🏡 Finds **hotels and villas** with real links and price info using **SerpAPI**
+- 💻 Clean and responsive UI using **Streamlit**
 
-💡 Built using Streamlit for a clean, interactive UI
+---
 
-🛠️ Tech Stack
-🧠 Gemini Pro (via LangChain)
+## ⚙️ Tech Stack
 
-🕸️ Playwright for browser automation (hotel scraping)
+- 🧠 Gemini 2.5 Pro (via LangChain)
+- 🔍 SerpAPI for hotel search
+- 🖥️ Streamlit for web app interface
 
-🌐 Streamlit for UI
-
+---
