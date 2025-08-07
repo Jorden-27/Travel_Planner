@@ -1,7 +1,7 @@
 # 🧠 AI Travel Planner with Hotel Finder
 
 Plan your perfect trip using AI!  
-This smart task automation agent breaks down your travel goal into subtasks like 🏨 hotel search, 📅 itinerary planning, and 💰 budgeting – powered by Gemini + SerpAPI.
+This smart task automation agent breaks down your travel goal into subtasks like 🏨 hotel search, 📅 itinerary planning, and 💰 budgeting – powered by Gemini + SerpAPI
 
 ---
 
